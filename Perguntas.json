@@ -49,6 +49,16 @@
         "Vermelhor"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Qual o livro que eu mais gosto?",
+      "opcoes": [
+        "De sangue e cinzas",
+        "Uma vida pequena",
+        "Tudo é rio",
+        "Mentiras que contamos"
+      ],
+      "correta": 1
     }
   ],
   "helo": [
