@@ -49,6 +49,16 @@
         "Vermelhor"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Qual meu jogo favorito",
+      "opcoes": [
+        "Wild Rift",
+        "Minecraft",
+        "Free Fire",
+        "Soul Knight"
+      ],
+      "correta": 0
     }
   ],
   "helo": [
