@@ -1,12 +1,12 @@
 {
   "vinny": [
     {
-      "pergunta": "Qual é a coisa que o Vinny mais gosta de fazer quando está livre?",
+      "pergunta": "Oq eu mais gosto em vc?",
       "opcoes": [
-        "Jogar",
-        "Estudar Engenharia",
-        "Dormir o dia inteiro",
-        "Ler"
+        "Tudo",
+        "Seu Cabelo",
+        "Seu Corpo",
+        "Seus olhos"
       ],
       "correta": 0
     },
@@ -21,17 +21,17 @@
       "correta": 3
     },
     {
-      "pergunta": "O que o Vinny mais ama ver a Helo fazendo?",
+      "pergunta": "O que eu mais gosto ver a Helo fazendo?",
       "opcoes": [
         "Brava com biquinho",
         "Sorrindo de verdade",
         "Focada estudando",
-        "Contando histórias"
+        "Falar sobre ela"
       ],
       "correta": 3
     },
     {
-      "pergunta": "Se o Vinny pudesse te dar um superpoder agora, qual seria?",
+      "pergunta": "Se o eu pudesse te dar um superpoder agora, qual seria?",
       "opcoes": [
         "Ficar invisível",
         "Poder ler mentes",
@@ -53,7 +53,7 @@
   ],
   "helo": [
     {
-      "pergunta": "Qual a comida preferida da Helo?",
+      "pergunta": "Qual a minha comida preferida?",
       "opcoes": [
         "Chocolate branco",
         "Hamburguer",
@@ -63,7 +63,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Se a Helo pudesse ir pra um lugar, onde ela iria?",
+      "pergunta": "Se a eu pudesse ir pra um lugar, onde eu iria?",
       "opcoes": [
         "Itália",
         "Espanha",
@@ -73,7 +73,7 @@
       "correta": 0
     },
     {
-      "pergunta": "O que a Helo mais gosta de Fazer?",
+      "pergunta": "O que eu mais gosto de Fazer?",
       "opcoes": [
         "Assistir",
         "Jogar",
@@ -83,12 +83,12 @@
       "correta": 3
     },
     {
-      "pergunta": "Qual é o melhor jeito de melhorar o dia da Helo quando ela está exausta?",
+      "pergunta": "Qual é a minha flor Favorita?",
       "opcoes": [
-        "Dar espaço e silêncio absoluto",
-        "Fazer uma surpresa super fofa",
-        "Ficar mandando mil mensagens",
-        "Deixar ela jogando sozinha"
+        "Rosas",
+        "Orquídeas",
+        "Tulipas",
+        "Lírios"
       ],
       "correta": 1
     }
