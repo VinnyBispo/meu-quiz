@@ -1,0 +1,46 @@
+{
+  "vinny": [
+    {
+      "pergunta": "Qual é a coisa que o Vinny mais gosta de fazer quando está livre?",
+      "opcoes": ["Jogar", "Estudar Engenharia", "Dormir o dia inteiro", "Ler"],
+      "correta": 0
+    },    
+    {
+      "pergunta": "Qual é a coisa que o Vinny mais gosta de fazer?",
+      "opcoes": ["viajar", "Estudar Engenharia", "Dormir o dia inteiro", "Praticar esportes"],
+      "correta": 3
+    },
+    {
+      "pergunta": "O que o Vinny mais ama ver a Helo fazendo?",
+      "opcoes": ["Brava com biquinho", "Sorrindo de verdade", "Focada estudando", "Contando histórias"],
+      "correta": 3
+    },
+    {
+      "pergunta": "Se o Vinny pudesse te dar um superpoder agora, qual seria?",
+      "opcoes": ["Ficar invisível", "Poder ler mentes", "Teletransporte para estarem sempre juntos", "Voar bem alto"],
+      "correta": 2
+    }
+  ],
+  "helo": [
+    {
+      "pergunta": "Qual a comida preferida da Helo?",
+      "opcoes": ["Chocolate branco", "Hamburguer", "Charuto Cigano", "Bolo"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Se a Helo pudesse ir pra um lugar, onde ela iria?",
+      "opcoes": ["Itália", "Espanha", "EUA", "Russia"],
+      "correta": 0
+    },
+        {
+      "pergunta": "O que a Helo mais gosta de Fazer?",
+      "opcoes": ["Assistir", "Jogar", "Estudar", "Ler"],
+      "correta": 3
+    },
+    {
+      "pergunta": "Qual é o melhor jeito de melhorar o dia da Helo quando ela está exausta?",
+      "opcoes": ["Dar espaço e silêncio absoluto", "Fazer uma surpresa super fofa", "Ficar mandando mil mensagens", "Deixar ela jogando sozinha"],
+      "correta": 1
+    }
+  ]
+}
