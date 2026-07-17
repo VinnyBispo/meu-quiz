@@ -59,6 +59,16 @@
         "Soul Knight"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Como seria o dia perfeito pra mim",
+      "opcoes": [
+        "Um dia de competição",
+        "Um dia de festa",
+        "Um dia de praia, com a família",
+        "Um dia de muitos jogos"
+      ],
+      "correta": 2
     }
   ],
   "helo": [
